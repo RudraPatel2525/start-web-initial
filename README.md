@@ -18,7 +18,7 @@
  
 <br /><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <p align="center">
-  <h3> I'm 18 years old student from University of Regina.</h3>
+  <h3> I'm 19 years old student from University of Regina.</h3>
 </p>
 
  - 🥀 Learning C++ as a primary language 
